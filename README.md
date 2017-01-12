@@ -1,0 +1,2 @@
+# RSA
+RSA is a public key cryptosystem algorithm. Public key cryptosystem requires two separate keys, one of which is secret (or private) and one of which is public. Although different, the two parts of this key pair are mathematically linked. The public key is used to encrypt plaintext; whereas the private key is used to decrypt cipher text. Only the one having the private key can encrypt the cipher text and get the original message.
